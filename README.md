@@ -4,7 +4,7 @@
 
 我覺得每次都要自己輸入驗證碼很煩，
 所以寫了這個自動填入驗證碼的程式
-<img src="https://github.com/lepus064/family_mart_goods_check/blob/main/showcase.gif" width="697" height="561" alt="example">
+<img src="https://github.com/lepus064/family_mart_goods_check/raw/main/showcase.gif" width="697" height="561" alt="example">
 
 ## Dependency ##
 
