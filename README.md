@@ -1,11 +1,10 @@
 # 全家自動貨件配送進度查詢
 
-<img src="https://github.com/lepus064/family_mart_goods_check/blob/main/showcase.gif" width="697" height="561" alt="example">
-
 ## Overview ##
 
 我覺得每次都要自己輸入驗證碼很煩，
 所以寫了這個自動填入驗證碼的程式
+<img src="https://github.com/lepus064/family_mart_goods_check/blob/main/showcase.gif" width="697" height="561" alt="example">
 
 ## Dependency ##
 
